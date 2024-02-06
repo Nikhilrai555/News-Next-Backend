@@ -1,0 +1,1 @@
+Scrapping news from different leading news sources in India, then storing the scrapednews categorie=wise in a database, then creating an rest API to access the news categorie wise.  

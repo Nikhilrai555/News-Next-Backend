@@ -1,5 +1,5 @@
 import puppeteer from 'puppeteer';
-
+ 
 export const jjbs = async ()=>{
      const browser = await puppeteer.launch()
     const page1 = await browser.newPage()
